@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "우리의 새벽은 낮보다 뜨겁다",
+  "base_artist": "SEVENTEEN",
+  "createdAt": "2026-02-13T07:14:34.491160Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "우리의 새벽은 낮보다 뜨겁다",
+      "artist": "SEVENTEEN",
+      "has_synced": false,
+      "path": "select/01_우리의_새벽은_낮보다_뜨겁다_SEVENTEEN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "우리의 새벽은 낮보다 뜨겁다 Instrumental",
+      "artist": "MR MakeR",
+      "has_synced": false,
+      "path": "select/02_우리의_새벽은_낮보다_뜨겁다_Instrumental_MR_MakeR.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "우리의 새벽은 낮보다 뜨겁다",
+      "artist": "세븐틴",
+      "has_synced": true,
+      "path": "select/03_우리의_새벽은_낮보다_뜨겁다_세븐틴.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "우리의 새벽은 낮보다 뜨겁다 (Our Dawn Is Hotter Than Day) Lyrics",
+      "artist": "SEVENTEEN",
+      "has_synced": false,
+      "path": "select/pl_01_우리의_새벽은_낮보다_뜨겁다_(Our_Dawn_Is_Hotter_Than_Day)_Lyrics_SEVENTEEN.txt"
+    }
+  ]
+}
